@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Promo App</string>
+
+    <string name="hint_contact_name">Kontakt Navn</string>
+    <string name="hint_contact_number">Kontakts Nummer</string>
+    <string name="hint_my_display_name">MMit Dsiplay Navn</string>
+    <string name="check_box_text_include_junior">Inkluder Junior</string>
+    <string name="check_box_text_immediate_start">Umiddelbar start</string>
+    <string name="hint_available_from_date">Tilgængelig fra dato</string>
+    <string name="button_preview_message">Vis besked</string>
+    <string name="button_send_message">Send besked</string>
+</resources>
